@@ -2,6 +2,8 @@
 
 You will not need to run `yarn` or `npm install`.
 
+Note: Check out the Dockerfile and try to play around with it. I added some comments, but feel free to reach out in case you have any questions.
+
 ### Getting Started
 1. Build your Docker Image.
 
